@@ -1,0 +1,13 @@
+.note{
+font-size: 15px;
+color: black;
+}
+
+.canvas{
+box-shadow: aquamarine;
+text-align: center;
+border: ridge;
+border-color: blanchedalmond;
+margin: 0px;
+padding: 0%;
+}
